@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/1LCGQBP/Rectangle-1-1.png",
+      "title": "The Great Adventure",
+      "author": "John Doe",
+      "author_Img": "https://i.ibb.co/6td6yct/Ellipse-1-1.png",
+      "posted_date": "2024-03-15",
+      "reading_time": 30 ,
+      "hashtags": ["#adventure", "#exciting"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/HgW3yLy/Rectangle-1-2.png",
+      "title": "Mysteries Unraveled",
+      "author": "Jane Smith",
+      "author_Img": "https://i.ibb.co/mGsCYBv/Ellipse-1.png",
+      "posted_date": "2024-03-14",
+      "reading_time": 45 ,
+      "hashtags": ["#mystery", "#intrigue"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Yk1BX8Z/Rectangle-1-3.png",
+      "title": "Into the Unknown",
+      "author": "Alice Johnson",
+      "author_Img": "https://i.ibb.co/6td6yct/Ellipse-1-1.png",
+      "posted_date": "2024-03-13",
+      "reading_time": 60 ,
+      "hashtags": ["#exploration", "#curiosity"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/LhRygk2/rear-view-programmer-working-all-night-long.jpg",
+      "title": "The Power Within",
+      "author": "Michael Brown",
+      "author_Img": "https://i.ibb.co/NYxQZwm/Ellipse-1-2.png",
+      "posted_date": "2024-03-12",
+      "reading_time": 40 ,
+      "hashtags": ["#inspiration", "#motivation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/j6ThrhR/high-angle-plant-notebook-frame.jpg",
+      "title": "Journey to Enlightenment",
+      "author": "Emily Jones",
+      "author_Img": "https://i.ibb.co/mGsCYBv/Ellipse-1.png",
+      "posted_date": "2024-03-11",
+      "reading_time": 55 ,
+      "hashtags": ["#spirituality", "#mindfulness"]
+    }
+  ]
+  
